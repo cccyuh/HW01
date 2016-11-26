@@ -1,0 +1,11 @@
+td {
+    color: blue
+}
+
+blockquote { color: blue ; }
+h1 { color: rgba(0,0,0,0.5); }
+strong {color: #f00;}
+p { color: navy } 
+blockquote {
+color: #fff ; background-color: gold;
+}
